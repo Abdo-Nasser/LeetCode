@@ -5,4 +5,5 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | Problem Code | Question | Swift | Java | Kotlin |
 |---|---|---|---|---|
 | - | Welcome | - | - | - |
-| 1 | TwoSum | [Swift](././Swift/TwoSum.swift) | [Java](././Java/TwoSum.java) | - |
+| 1 | Two Sum | [Swift](././Swift/TwoSum.swift) | [Java](././Java/TwoSum.java) | - |
+| 2 | Add Two Numbers | [Swift](././Swift/AddTwoNumbers.swift) | [Java](././Java/AddTwoNumbers.java) | - |
