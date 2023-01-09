@@ -11,6 +11,7 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 5 | Longest Palindromic Substring | [Swift](././Swift/LongestPalindromicSubstring.swift) | [Java](././Java/LongestPalindromicSubstring.java) | - |
 | 6 | Zigzag Conversion | [Swift](././Swift/ZigzagConversion.swift) | [Java](././Java/ZigzagConversion.java) | - |
 | 7 | Reverse Integer | [Swift](././Swift/ReverseInteger.swift) | [Java](././Java/ReverseInteger.java) | - |
+| 8 | String To Integer (atoi) | [Swift](././Swift/StringToInteger(atoi).swift) | [Java](././Java/StringToInteger(atoi).java) | - |
 | 9 | Palindrome Number | [Swift](././Swift/PalindromeNumber.swift) | [Java](././Java/PalindromeNumber.java) | - |
 | 26 | Remove Duplicates from Sorted Array | [Swift](././Swift/RemoveDuplicatesfromSortedArray.swift) | [Java](././Java/RemoveDuplicatesfromSortedArray.java) | - |
 
