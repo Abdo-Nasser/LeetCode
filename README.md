@@ -16,5 +16,6 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 14 | Longest Common Prefix | [Swift](././Swift/LongestCommonPrefix.swift) | [Java](././Java/LongestCommonPrefix.java) | - |
 | 15 | 3Sum | [Swift](././Swift/3Sum.swift) | [Java](././Java/3Sum.java) | - |
 | 16 | 3Sum Closest | [Swift](././Swift/3SumClosest.swift) | [Java](././Java/3SumClosest.java) | - |
+| 17 | Letter Combinations of a Phone Number | [Swift](././Swift/LetterCombinationsofPhoneNumber.swift) | [Java](././Java/LetterCombinationsofPhoneNumber.java) | - |
 | 26 | Remove Duplicates from Sorted Array | [Swift](././Swift/RemoveDuplicatesfromSortedArray.swift) | [Java](././Java/RemoveDuplicatesfromSortedArray.java) | - |
 
