@@ -19,4 +19,4 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 17 | Letter Combinations of a Phone Number | [Swift](././Swift/LetterCombinationsofPhoneNumber.swift) | [Java](././Java/LetterCombinationsofPhoneNumber.java) | - |
 | 26 | Remove Duplicates from Sorted Array | [Swift](././Swift/RemoveDuplicatesfromSortedArray.swift) | [Java](././Java/RemoveDuplicatesfromSortedArray.java) | - |
 | 27 | Remove Element | [Swift](././Swift/RemoveElement.swift) | [Java](././Java/RemoveElement.java) | - |
-
+| 58 | Length of Last Word | [Swift](././Swift/LengthofLastWord.swift) | [Java](././Java/LengthofLastWord.java) | - |
