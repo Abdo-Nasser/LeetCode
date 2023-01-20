@@ -23,3 +23,4 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 58 | Length of Last Word | [Swift](././Swift/LengthofLastWord.swift) | [Java](././Java/LengthofLastWord.java) | - |
 | 66 | Plus One | [Swift](././Swift/PlusOne.swift) | [Java](././Java/PlusOne.java) | - |
 | 69 | Sqrt(x) | [Swift](././Swift/Sqrt(x).swift) | [Java](././Java/Sqrt(x).java) | - |
+| 70 | Climbing Stairs | [Swift](././Swift/ClimbingStairs.swift) | [Java](././Java/ClimbingStairs.java) | - |
