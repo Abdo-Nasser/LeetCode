@@ -27,4 +27,6 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 70 | Climbing Stairs | [Swift](././Swift/ClimbingStairs.swift) | [Java](././Java/ClimbingStairs.java) | - |
 | 83 | Remove Duplicates from Sorted List | [Swift](././Swift/RemoveDuplicatesFromSortedList.swift) | [Java](././Java/RemoveDuplicatesFromSortedList.java) | - |
 | 100 | Same Tree | [Swift](././Swift/SameTree.swift) | [Java](././Java/SameTree.java) | - |
-| 101 | Same Tree | [Swift](././Swift/SymmetricTree.swift) | [Java](././Java/SymmetricTree.java) | - |
+| 101 | Symmetric Tree | [Swift](././Swift/SymmetricTree.swift) | [Java](././Java/SymmetricTree.java) | - |
+| 104 | Maximum Depth of Binary Tree | [Swift](././Swift/MaximumDepthofBinaryTree.swift) | [Java](././Java/MaximumDepthofBinaryTree.java) | - |
+
