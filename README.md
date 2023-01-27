@@ -21,6 +21,7 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 22 | Generate Parentheses | [Swift](././Swift/GenerateParentheses.swift) | [Java](././Java/GenerateParentheses.java) | - |
 | 26 | Remove Duplicates from Sorted Array | [Swift](././Swift/RemoveDuplicatesfromSortedArray.swift) | [Java](././Java/RemoveDuplicatesfromSortedArray.java) | - |
 | 27 | Remove Element | [Swift](././Swift/RemoveElement.swift) | [Java](././Java/RemoveElement.java) | - |
+| 35 | Search Insert Position | [Swift](././Swift/SearchInsertPosition.swift) | [Java](././Java/SearchInsertPosition.java) | - |
 | 36 | Valid Sudoku | [Swift](././Swift/ValidSudoku.swift) | [Java](././Java/ValidSudoku.java) | - |
 | 58 | Length of Last Word | [Swift](././Swift/LengthofLastWord.swift) | [Java](././Java/LengthofLastWord.java) | - |
 | 66 | Plus One | [Swift](././Swift/PlusOne.swift) | [Java](././Java/PlusOne.java) | - |
