@@ -21,6 +21,7 @@ Here you will find LeetCode problems solutions which I used to pass .. Please us
 | 16 | 3Sum Closest | [Swift](././Swift/3SumClosest.swift) | [Java](././Java/3SumClosest.java) | - |
 | 17 | Letter Combinations of a Phone Number | [Swift](././Swift/LetterCombinationsofPhoneNumber.swift) | [Java](././Java/LetterCombinationsofPhoneNumber.java) | - |
 | 19 | Remove Nth Node From End of List | [Swift](././Swift/RemoveNthNodeFromEndofList.swift) | [Java](././Java/RemoveNthNodeFromEndofList.java) | - |
+| 20 | Valid Parentheses | [Swift](././Swift/ValidParentheses.swift) | [Java](././Java/ValidParentheses.java) | - |
 | 22 | Generate Parentheses | [Swift](././Swift/GenerateParentheses.swift) | [Java](././Java/GenerateParentheses.java) | - |
 | 26 | Remove Duplicates from Sorted Array | [Swift](././Swift/RemoveDuplicatesfromSortedArray.swift) | [Java](././Java/RemoveDuplicatesfromSortedArray.java) | - |
 | 27 | Remove Element | [Swift](././Swift/RemoveElement.swift) | [Java](././Java/RemoveElement.java) | - |
